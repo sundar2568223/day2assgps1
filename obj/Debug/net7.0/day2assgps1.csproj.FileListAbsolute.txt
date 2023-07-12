@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\bin\Debug\net7.0\day2assgps1.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\bin\Debug\net7.0\day2assgps1.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\bin\Debug\net7.0\day2assgps1.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\bin\Debug\net7.0\day2assgps1.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\bin\Debug\net7.0\day2assgps1.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\day2assgps1.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\day2assgps1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\day2assgps1.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\day2assgps1.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\day2assgps1.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\day2assgps1.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\refint\day2assgps1.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\day2assgps1.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\day2assgps1.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day3\day2assgps1\day2assgps1\obj\Debug\net7.0\ref\day2assgps1.dll
